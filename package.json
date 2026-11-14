@@ -1,0 +1,14 @@
+{
+  "name": "smart-marketing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "智能营销工作台：线索定义 DSL → 客群 → 方案 → 任务单 → 触达 → 复盘的可审计闭环",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
